@@ -1,5 +1,5 @@
 
 [workspace]
-members = ["calculator-cli"]
+members = ["calculator-cli", "todo-cli"]
 
 resolver = "3"

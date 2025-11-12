@@ -1,4 +1,4 @@
-use std::{f64, io};
+ use std::{f64, io};
 
 fn main() {
     println!("Simple Calculator");
